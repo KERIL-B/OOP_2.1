@@ -1,0 +1,13 @@
+E:\vs2012\1progs\4thSemestr\Colors_Patterns\Memento_Pattern\Memento_Pattern\bin\Debug\Memento_Pattern.exe.config
+E:\vs2012\1progs\4thSemestr\Colors_Patterns\Memento_Pattern\Memento_Pattern\bin\Debug\Memento_Pattern.exe
+E:\vs2012\1progs\4thSemestr\Colors_Patterns\Memento_Pattern\Memento_Pattern\bin\Debug\Memento_Pattern.pdb
+E:\vs2012\1progs\4thSemestr\Colors_Patterns\Memento_Pattern\Memento_Pattern\obj\Debug\Memento_Pattern.csprojResolveAssemblyReference.cache
+E:\vs2012\1progs\4thSemestr\Colors_Patterns\Memento_Pattern\Memento_Pattern\obj\Debug\MainWindow.baml
+E:\vs2012\1progs\4thSemestr\Colors_Patterns\Memento_Pattern\Memento_Pattern\obj\Debug\MainWindow.g.cs
+E:\vs2012\1progs\4thSemestr\Colors_Patterns\Memento_Pattern\Memento_Pattern\obj\Debug\App.g.cs
+E:\vs2012\1progs\4thSemestr\Colors_Patterns\Memento_Pattern\Memento_Pattern\obj\Debug\Memento_Pattern_MarkupCompile.cache
+E:\vs2012\1progs\4thSemestr\Colors_Patterns\Memento_Pattern\Memento_Pattern\obj\Debug\Memento_Pattern.g.resources
+E:\vs2012\1progs\4thSemestr\Colors_Patterns\Memento_Pattern\Memento_Pattern\obj\Debug\Memento_Pattern.Properties.Resources.resources
+E:\vs2012\1progs\4thSemestr\Colors_Patterns\Memento_Pattern\Memento_Pattern\obj\Debug\Memento_Pattern.csproj.GenerateResource.Cache
+E:\vs2012\1progs\4thSemestr\Colors_Patterns\Memento_Pattern\Memento_Pattern\obj\Debug\Memento_Pattern.exe
+E:\vs2012\1progs\4thSemestr\Colors_Patterns\Memento_Pattern\Memento_Pattern\obj\Debug\Memento_Pattern.pdb
