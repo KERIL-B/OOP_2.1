@@ -16,12 +16,15 @@ namespace Colors_Patterns
 
     class ConcreteObservable : IObservable
     {
+        private static ConcreteObservable instance;
+
         private List<IObserver> observers;
        
-        public ConcreteObservable()
+        private ConcreteObservable()
         {
             observers = new List<IObserver>();
         }
+
         public void AddObserver(IObserver o)
         {
             observers.Add(o);

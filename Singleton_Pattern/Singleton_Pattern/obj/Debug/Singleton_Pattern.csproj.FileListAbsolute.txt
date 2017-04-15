@@ -1,0 +1,5 @@
+E:\vs2012\1progs\4thSemestr\Colors_Patterns\Singleton_Pattern\Singleton_Pattern\bin\Debug\Singleton_Pattern.exe.config
+E:\vs2012\1progs\4thSemestr\Colors_Patterns\Singleton_Pattern\Singleton_Pattern\bin\Debug\Singleton_Pattern.exe
+E:\vs2012\1progs\4thSemestr\Colors_Patterns\Singleton_Pattern\Singleton_Pattern\bin\Debug\Singleton_Pattern.pdb
+E:\vs2012\1progs\4thSemestr\Colors_Patterns\Singleton_Pattern\Singleton_Pattern\obj\Debug\Singleton_Pattern.exe
+E:\vs2012\1progs\4thSemestr\Colors_Patterns\Singleton_Pattern\Singleton_Pattern\obj\Debug\Singleton_Pattern.pdb
